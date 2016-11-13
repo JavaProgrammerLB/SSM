@@ -7,8 +7,8 @@
 <title>setMeta.jsp</title>
 </head>
 <body>
-	<center class="aa">
-		<p class="bb">
+	<center>
+		<p>
 			现在的时间为：<br>
 			<%
 				out.print("" + new Date());
